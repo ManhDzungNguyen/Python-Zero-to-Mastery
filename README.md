@@ -8,7 +8,7 @@
 
 **Functions:** **[`Functions`](#functions)**,**[`Lambda`](#lambda)**,**[`Comprehensions`](#comprehensions)**,**[`Map,Filter,Reduce`](#map-filter-reduce)**,**[`Ternary`](#ternary-condition)**,**[`Any,All`](#any-all)**,**[`Closures`](#closures)**,**[`Scope`](#scope)**
 
-**Advanced Python:** **[`Modules`](#modules)**,**[`Iterators`](#iterators)**,**[`Generators`](#generators)**,**[`Decorators`](#decorators)**,**[`Class`](#class)**,**[`Exceptions`](#exceptions)**,**[`Command Line Arguments`](#command-line-arguments)**,**[`File IO`](#file-io)**,**[`Useful Libraries`](#useful-libraries)**
+**Advanced Python:** **[`Modules`](#modules)**,**[`Iterators`](#iterators)**,**[`Generators`](#generators)**,**[`Decorators`](#decorators)**,**[`Class`](#class)**,**[`Exceptions`](#exceptions)**,**[`Command Line Arguments`](#command-line-arguments)**,**[`File IO`](#file-io)**
 
 ## Numbers
 
