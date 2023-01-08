@@ -1,0 +1,5 @@
+Tại sao khoa học dữ liệu lại quan trọng?
+Khoa học dữ liệu rất quan trọng vì nó kết hợp các công cụ, phương pháp và công nghệ để tạo ra ý nghĩa từ dữ liệu.
+Các tổ chức hiện đại tràn ngập dữ liệu; có sự gia tăng của các thiết bị có thể tự động thu thập và lưu trữ thông tin.
+Các hệ thống trực tuyến và cổng thanh toán thu thập nhiều dữ liệu hơn trong các lĩnh vực thương mại điện tử, y học, tài chính và mọi khía cạnh khác của cuộc sống con người.
+Chúng tôi có sẵn dữ liệu văn bản, âm thanh, video và hình ảnh với số lượng lớn.
